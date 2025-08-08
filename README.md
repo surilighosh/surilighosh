@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surilighosh
 - 👀 I’m interested in Learnig things 
 - 🌱 I’m currently learning python
-- 📫 How to reach me suriliact109@gmail.com
+- 📫 How to reach me surilighosh@gmail.com
 - ⚡ Fun fact: i like painting
 
 <!---
